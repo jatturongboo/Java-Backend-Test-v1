@@ -27,6 +27,7 @@ Prefer tools (just is a plus with this tool)
 - Mockito
 - JWT
 
+![alt text](https://i.ibb.co/Tk5PQTf/UML-Class-Diagram.png)
 
 ## Built With
 
